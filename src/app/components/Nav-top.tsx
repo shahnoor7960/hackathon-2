@@ -2,10 +2,10 @@ import Image from "next/image";
 import { SlArrowDown } from "react-icons/sl";
 import { FiAlertCircle } from "react-icons/fi";
 
-export default function NavtTop() {
+export default function NavTop() {
   return (
     <div>
-      <div className="w-full h-[45px] text-white bg-[#272343] flex justify-between px-[300px] py-[14px]">
+      <div className="w-[1920px] h-[45px] text-white bg-[#272343] flex justify-between px-[300px] py-[14px]">
         <div className="width-[255px] h-[16px] flex gap-[8px]">
           <div>
             <Image src="/check-1.png" width={16} height={16} alt="img"></Image>

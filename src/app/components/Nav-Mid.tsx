@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function NavMid() {
   return (
     <div
-      className="w-full h-[84px] text- bg-[#F0F2F3] flex justify-between 
+      className="w-[1920px] h-[84px] text- bg-[#F0F2F3] flex justify-between 
         px-[300px] py-[20px]"
     >
       <div className="w-[166px] h-[40px] flex gap-[8px]">
